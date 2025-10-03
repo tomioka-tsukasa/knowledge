@@ -123,12 +123,3 @@ which claude
 which npm
 ```
 
-## メンテナンス
-
-### 定期的な同期（Git管理している場合）
-```bash
-cd ~/.dotfiles
-git add .
-git commit -m "Update aliases"
-git push
-```
